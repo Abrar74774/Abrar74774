@@ -5,6 +5,6 @@
 <p align="center">
   I build stuff for the Web 🌐
 <br>
-  I work mostly with <strong>Javascript</strong>, along with some <strong>Python</strong>
+  I work mostly with <strong>Typescript / Javascript</strong>, along with some <strong>Python</strong>
 </p>
   
